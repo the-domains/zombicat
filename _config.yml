@@ -1,0 +1,14 @@
+layout_spectrum: 0.5367525217588991
+typography_spectrum: 0.6504207840189338
+color:
+  brandStrength: 0.9657536100130528
+  lightness: 0.5435903908219188
+  saturation: 0.9969021093565971
+  rhythmicContrast: 0.02589076105505228
+  brandColors:
+    - '#0C0C0C'
+    - '#DAD9DF'
+    - '#D69843'
+    - '#84060A'
+    - '#3A4249'
+name: Zombicat

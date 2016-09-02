@@ -1,3 +1,4 @@
+layout_spectrum: 0.5367525217588991
 typography_spectrum: 0.6504207840189338
 color:
   brandStrength: 0.9657536100130528
@@ -10,7 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.5367525217588991
 name: Zombicat
-title: production studio
-description: making things that make sense
